@@ -5,5 +5,6 @@ public class test1 {
 		System.out.println("rewrewrew");
 		System.out.println("asa");
 		System.out.println("wedwefd");
+		System.out.println("wedwefd");
 	}
 }
